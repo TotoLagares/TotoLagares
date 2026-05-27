@@ -26,6 +26,11 @@
 **[Toba](https://github.com/YOUR-USERNAME/toba)**
 - **Description:** Jira-like ticket management app
 - **Stack:** Java 17 · Spring Boot · MySQL · Thymeleaf · Docker · Maven
+
+**[VetRural](https://github.com/chinoferretti/VetRural)**
+- **Description:** University capstone project. App to digitize cattle handling sessions for rural veterinarians and the development of statistical metrics for livestock farmers
+- **Role:** Scrum Master & Backend Developer
+- **Stack:** Java · Spring Boot · MySQL · Vue · Docker
   
 ---
 
