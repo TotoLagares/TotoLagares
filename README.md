@@ -24,10 +24,9 @@
 ### Featured project
 
 **[Toba](https://github.com/YOUR-USERNAME/toba)**
-
-![Description](https://img.shields.io/badge/Description-8b5cf6?style=flat-square)  Jira-like ticket management app
-
-![Stack](https://img.shields.io/badge/Stack-ef4444?style=flat-square)  Java 17 · Spring Boot · MySQL · Thymeleaf · Docker · Maven
+- **Description:** Jira-like ticket management app
+- **Stack:** Java 17 · Spring Boot · MySQL · Thymeleaf · Docker · Maven
+  
 ---
 
 
