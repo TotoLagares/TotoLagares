@@ -23,10 +23,9 @@
 
 ### Featured project
 
-<a href="https://github.com/TotoLagares/toba_project">
-  <b>🎫 Toba</b> — Jira-like ticket management built with Spring Boot, MySQL and Thymeleaf. Fully dockerized.
-</a>
-
+** [Toba](https://github.com/YOUR-USERNAME/toba)**  
+  Description: Jira-like ticket management app
+  Stack: Java 17 · Spring Boot · MySQL · Thymeleaf · Docker · Maven
 ---
 
 
