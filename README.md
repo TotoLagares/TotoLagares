@@ -4,9 +4,6 @@
   Backend-focused CS student from Buenos Aires, Argentina.<br/>
   Building things with Java & Spring Boot.
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/XXXXX/giphy.gif" width="100%" height="80" />
-</p>
 
 
 <p align="center">
@@ -24,9 +21,7 @@
 - 🎓 Third-year Computer Engineering student at **UADE**
 - 💻 Backend developer focused on **Java 17 + Spring Boot**
 - 🚀 Currently building **Toba** — a Jira-like ticket management app
-- 🌱 Learning full-stack integration (React + Vite, Docker Compose, CORS)
-- 🌍 Planning a student exchange in Europe for next semester
-- 🎮 Off-keyboard: gaming, Stephen King novels, and Veritasium
+- 🌱 Learning full-stack integration (React + Vite, Docker, CORS)
 
 ---
 
@@ -46,14 +41,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&theme=default" height="150" />
-  </a>
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&theme=default" height="150" />
-  </a>
-</p>
 
 <p align="center">
   <i>📫 Reach me at <a href="mailto:YOUR-EMAIL">your-email</a></i>
