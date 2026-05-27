@@ -4,6 +4,10 @@
   Backend-focused CS student from Buenos Aires, Argentina.<br/>
   Building things with Java & Spring Boot.
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/XXXXX/giphy.gif" width="100%" height="80" />
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
