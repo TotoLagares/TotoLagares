@@ -1,17 +1,5 @@
-<h1 align="center">Hey, I'm Toto 👋</h1>
-
 <p align="center">
-  Backend-focused CS student from Buenos Aires, Argentina.<br/>
-  Building things with Java & Spring Boot.
-</p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white" />
+  <img src="./assets/snow-header.svg" width="100%" />
 </p>
 
 ---
@@ -35,7 +23,7 @@
 
 ### Featured project
 
-<a href="https://github.com/YOUR-USERNAME/toba">
+<a href="https://github.com/TotoLagares/toba_project">
   <b>🎫 Toba</b> — Jira-like ticket management built with Spring Boot, MySQL and Thymeleaf. Fully dockerized.
 </a>
 
