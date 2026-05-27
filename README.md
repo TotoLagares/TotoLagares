@@ -31,5 +31,5 @@
 
 
 <p align="center">
-  <i>📫 Reach me at <a href="mailto:YOUR-EMAIL">your-email</a></i>
+  <i>📫 Reach me at <a href="mailto:santiagolagares2005@gmail.com<">santiagolagares2005@gmail.com</a></i>
 </p>
